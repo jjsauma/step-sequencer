@@ -1,0 +1,7 @@
+#N canvas 1195 27 696 792 10;
+#X obj 74 140 StepSequencerSubPatch;
+#X obj 354 80 ThereminSubPatch;
+#X obj 74 80 TapTempoSubPatch;
+#X connect 0 0 1 0;
+#X connect 2 0 0 0;
+#X coords 0 -1 1 1 500 350 2 64 70;
